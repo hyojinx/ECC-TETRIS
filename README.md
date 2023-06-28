@@ -1,4 +1,4 @@
-### JavaScript Project - TETRIS
+### TETRIS PROJECT
 JavaScript로 블록을 회전, 이동시키고 쌓여진 블록을 제거하는 게임 메커니즘 구현
 
 <br>
